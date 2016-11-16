@@ -4,7 +4,6 @@ let obj = {
         brand: {
             name: "F150",
             year: 2016
-
         }
     }
 };
